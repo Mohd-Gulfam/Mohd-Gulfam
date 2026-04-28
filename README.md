@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Mohd Gulfam</h1>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam&show_icons=true&theme=radical&rank_icon=github&show_owner=true" alt="Gulfam's Stats" />
+ <img src="https://komarev.com/ghpvc/?username=Mohd-Gulfam&label=Profile%20views&color=0e75b6&style=flat" alt="Mohd-Gulfam" />
 
   <p>🚀 <b>Junior UI/UX Designer | Full-Stack Developer | AI Enthusiast</b></p>
 </div>
