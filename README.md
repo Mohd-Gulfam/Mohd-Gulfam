@@ -16,8 +16,8 @@ I work across **full-stack development (MERN & Flask)**, **AI workflows**, and *
   <table border="0">
     <tr>
       <td>
-        <img
-  src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam&show_icons=true&theme=radical"
+       <img
+  src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam&show_icons=true&theme=radical&cache_seconds=1800"
   alt="GitHub Stats"
 />
       </td>
