@@ -16,10 +16,7 @@ I work across **full-stack development (MERN & Flask)**, **AI workflows**, and *
   <table border="0">
     <tr>
       <td>
-       <img
-  src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam&show_icons=true&theme=radical&cache_seconds=1800"
-  alt="GitHub Stats"
-/>
+       <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats"/>
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Gulfam&theme=radical" width="400" alt="Gulfam's Streak" />
